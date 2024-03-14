@@ -2,8 +2,7 @@
 <p ><b> SITE MARVEL CHARACTERS 🤖</b> <br> <p style="font-size: 15px"></p>
 
 
-
-https://github.com/rafaelbcabral/marvel-site/assets/118222979/9782d250-3843-451e-bc53-845b0495255c
+https://github.com/rafaelbcabral/marvel-site/assets/118222979/ef40fb73-ea67-416d-a859-5add069352bb
 
 
 

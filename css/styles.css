@@ -682,13 +682,21 @@ body.dark #particles-js {
 @media (max-width: 999px) {
 
 .img-thumbnail{
-  width: 25%;
-  margin-left: 37%;
+  width: 28%;
+  margin-left: 40%;
+  display: flex;
+  margin: 0 auto;
 }
 
 .img-fluid{
   max-width: 90%;
-  margin-left: 5%;
+  margin-left: 4%;
+}
+
+.toggle-container{
+  text-align: center;
+  display: flex;
+  margin-right: -6%;
 }
 
 .section-title{

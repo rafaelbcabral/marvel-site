@@ -7,16 +7,16 @@
 @import url('https://fonts.cdnfonts.com/css/avenir');
 
 
-
 /* header */
   
-.navbar-nav {
+
+ .navbar-nav {
     width: 100%; /* Definir uma largura para a barra de navegação */
     margin-left: -250%; /* Mantenha a margem esquerda negativa */
     margin-right: auto; /* Use 'auto' para a margem direita */
     text-align: center; /* Centralize o texto dentro dos itens da lista */
 }
-  
+
 .nav-item {
     margin-right: 30%;
 }
@@ -682,8 +682,8 @@ body.dark #particles-js {
 @media (max-width: 999px) {
 
 .img-thumbnail{
-  width: 20%;
-  margin-left: 40%;
+  width: 25%;
+  margin-left: 37%;
 }
 
 .img-fluid{
